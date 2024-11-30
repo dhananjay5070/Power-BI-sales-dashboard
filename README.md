@@ -1,2 +1,2 @@
 # Power-BI-sales-dashboard
-Analyse the Ecommerce sales data to get usefull insights
+Analyze the e-commerce sales data to gain useful insights.
